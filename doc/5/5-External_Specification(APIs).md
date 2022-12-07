@@ -1,2 +1,2 @@
 ## 5. External Specification(APIs) <br>
-　　2023年3月末公開予定
+　　2022年12月末公開予定
