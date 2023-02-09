@@ -1,6 +1,6 @@
 # 本サイトについて
 　本サイトはSIP分野間データ連携基盤のドキュメントを提供しております。<br>
-　各種ドキュメントは、<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。<br>
+　各種ドキュメントは、別に注釈があるものを除いて、<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。<br>
 　著作者の情報については、以下の1～6の各ディレクトリ内に表記しておりますので、ご確認ください。<br>
  
 ## 1. Document List <br>
