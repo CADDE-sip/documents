@@ -1,6 +1,9 @@
 ## 1. Document List<br>
-　　2023年3月末公開予定 <br>
+　　CADDEのドキュメント一覧です。2～6．にて構成される資料について、ご参照ください。<br>
+　　2023年3月末公開予定 ※資料のリンクを提示予定<br>
 
 ### 　著作者及びライセンスについて <br>
-　　『<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CADDEドキュメント</span>』の内、[documents/doc/1/]の資料は、著作者がNATIONAL INSTITUTE OF INFORMATICS, NTT DATA Corporation, JIP Techno Science Corporation, Hitachi, Ltd.,SB Technology Corp.,The University of Tokyo, NEC Corporation, and FUJITSU LIMITED.です。<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>で提供されています。
+　　本ディレクトリ(documents/doc/1/)に格納されている資料の著作者は、国立情報学研究所、株式会社エヌ･ティ･ティ･データ、<br>
+　　JIPテクノサイエンス株式会社、株式会社日立製作所、SBテクノロジー株式会社東京大学、日本電気株式会社、富士通株式会社です。<br>
+　　<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>で提供されています。<br>
 
