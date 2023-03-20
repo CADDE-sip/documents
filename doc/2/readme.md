@@ -1,5 +1,5 @@
-## 2. High Level Requirement + Requirements <br>
-　　CADDEの構想に関するハイレベル要求要件を記載した資料です。<br>
+## 2. Use Case <br>
+　　CADDEの機能とサービスを利用したデータ連携のユースケースを記載した資料です。<br>
 　　2023年3月末公開予定 ※資料のリンクを提示予定<br>
 
 ### 　著作者及びライセンスについて <br>
