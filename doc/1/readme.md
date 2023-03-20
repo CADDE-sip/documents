@@ -1,5 +1,5 @@
-## 1. Document List<br>
-　　CADDEのドキュメント一覧です。2～6．にて構成される資料について、ご参照ください。<br>
+## 1. High Level Requirement + Requirements <br>
+　　CADDEの構想に関するハイレベル要求要件を記載した資料です。<br>
 　　2023年3月末公開予定 ※資料のリンクを提示予定<br>
 
 ### 　著作者及びライセンスについて <br>
