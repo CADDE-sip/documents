@@ -6,6 +6,8 @@ CADDEのドキュメントは以下の1～7．から構成されています。C
   <br>
 各種ドキュメントは、別に注釈があるものを除いて、<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>(CC BY 4.0)の下に提供します。<br>
 著作者の情報については、以下の1～7の各ディレクトリ内に表記しておりますので、ご確認ください。<br>
+ <br>
+※CADDE（ジャッデ）は情報・システム研究機構（国立情報学研究所）の登録商標です。<br>
 
 
 ## 1. High Level Requirement + Requirements <br>
