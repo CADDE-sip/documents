@@ -40,4 +40,4 @@ CADDEのドキュメントは以下の1～7．から構成されています。C
 
 ## 8. Others <br>
 　CADDEの紹介資料やその他の技術に関する資料です。<br>
-　[Others 格納先](doc/) 参照。<br>
+　[Others 格納先](doc/8) 参照。<br>
