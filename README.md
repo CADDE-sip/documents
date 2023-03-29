@@ -38,3 +38,6 @@ CADDEのドキュメントは以下の1～7．から構成されています。C
 　本研究に係るスケジュールやプロセスに関する資料です。<br>
 　[Schedule, Development process 格納先](doc/7) 参照。<br>
 
+## 8. Others <br>
+　CADDEの紹介資料やその他の技術に関する資料です。<br>
+　[Others 格納先](doc/) 参照。<br>
