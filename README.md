@@ -32,12 +32,12 @@ CADDEのドキュメントは以下の1～7．から構成されています。C
 
 ## 6. Social Deployment Issue <br>
 　社会実装に向けた取り組みに関する資料です。<br>
-  (2023年3月時点で公開資料はありません。)<br>
+　(2023年3月時点で公開資料はありません。)<br>
 　[Social Deployment Issue 格納先](doc/6) 参照。<br>
  
 ## 7. Schedule, Development process <br>
 　本研究に係るスケジュールやプロセスに関する資料です。<br>
-  (2023年3月時点で公開資料はありません。)<br>
+　(2023年3月時点で公開資料はありません。)<br>
 　[Schedule, Development process 格納先](doc/7) 参照。<br>
 
 ## 8. Others <br>
