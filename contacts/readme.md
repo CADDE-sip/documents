@@ -55,7 +55,7 @@
 ・国立情報学研究所<br>
 　ccs-info@nii.ac.jp<br>
 ・株式会社エヌ･ティ･ティ･データ<br>
-　Nobutaka.honjou@nttdata.com<br>
+　sip-cyber@hml.nttdata.co.jp<br>
 ・JIPテクノサイエンス株式会社<br>
 　drims_project@cm.jip-ts.co.jp<br>
 <br>
